@@ -17,7 +17,7 @@ main {
 }
 
 .receita {
-    background-color: #fff;
+    background-color: #cfd853;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
@@ -32,7 +32,7 @@ main {
 }
 
 button {
-    background-color: #6b3e26;
+    background-color: #266b26;
     color: white;
     border: none;
     padding: 10px 15px;
